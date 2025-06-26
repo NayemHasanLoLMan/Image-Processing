@@ -1,0 +1,41 @@
+{
+  "pharmacy_or_doctor_name": "Dr. Y. Nagendar Rao",
+  "title_or_doctor_details": "M.B.B.S (Osm), M.D (Psy), FI.RS",
+  "contact_details": "Telephone: 040-27796644",
+  "date": "15-03-2024",
+  "address": "Plot # 89, Sardar Patel Colony, Hashmatpet Road, Tirumulgerry, Secunderabad - 500 015.",
+  "rx_number": "8373 (A.P)",
+  "store_number": "none",
+  "medicines_names": [
+    {
+      "medicine_name": "Sizodon Plus",
+      "description": "Take one (1x) tablet in the morning and one (1x) at night.",
+      "qty": "60 tablets for 2 per day for 30 days.",
+      "side_effects": "Possible side effects include drowsiness, dizziness, and weight gain."
+    },
+    {
+      "medicine_name": "Qutipin 200mg",
+      "description": "Take one (1x) tablet at night.",
+      "qty": "30 tablets for 1 per day for 30 days.",
+      "side_effects": "Possible side effects include drowsiness, dry mouth, and weight gain."
+    },
+    {
+      "medicine_name": "Ativan (Lorazepam) 2mg",
+      "description": "Take one (1x) tablet at night.",
+      "qty": "30 tablets for 1 per day for 30 days.",
+      "side_effects": "Possible side effects include drowsiness, dizziness, and weakness."
+    },
+    {
+      "medicine_name": "Rivotril 0.5mg (Clonazepam)",
+      "description": "Take one (1x) tablet at night.",
+      "qty": "30 tablets for 1 per day for 30 days.",
+      "side_effects": "Possible side effects include drowsiness, dizziness, and fatigue."
+    },
+    {
+      "medicine_name": "Serma 50mg",
+      "description": "Take one (1x) tablet at night.",
+      "qty": "30 tablets for 1 per day for 30 days.",
+      "side_effects": "Possible side effects include nausea, dizziness, and headache."
+    }
+  ]
+}
