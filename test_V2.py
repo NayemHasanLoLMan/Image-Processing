@@ -135,8 +135,13 @@ def process_url_image(image_url):
 
 # Example usage
 if __name__ == "__main__":
-    test_url = "https://miro.medium.com/v2/resize:fit:480/1*bV170ZH7Sn_doc5bbyRYWg.jpeg"
-    print("Processing prescription image...")
-    result = process_url_image(test_url)
-    print("Result:")
-    print(json.dumps(result, indent=2))
+    test_paths = ['D:/kevon-imageprocessing/iamge/1.jpg', 
+                  'D:/kevon-imageprocessing/iamge/2.jpg', 
+                  'D:/kevon-imageprocessing/iamge/3.jpg']
+    
+    for path in test_paths:
+        print(f"Processing prescription image: {path} ...")
+        result = process_local_image(path)
+        print("Result:")
+        print(json.dumps(result, indent=2))
+        print("-" * 80)
